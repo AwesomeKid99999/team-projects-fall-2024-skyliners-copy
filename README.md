@@ -1,5 +1,6 @@
 # Weekly Carbon Footprint Calculator
-This is a weekly carbon footprint calculator that I did with my classmates in one of my computer science classes. Everything is done using the MIPS assembly language. *Below this text, all content comes from our slides.*
+This is a weekly carbon footprint calculator developed with my classmates as part of a computer science course project. The entire program was written in MIPS assembly language. _Content below is adapted from our presentation slides._
+
 
 ## Overview
 - The Weekly Carbon Footprint Tracker lets users log daily activities (transport, energy, and waste) and calculates their weekly carbon footprint. It then projects this total over a year and compares it to the US average.
