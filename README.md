@@ -28,7 +28,7 @@ This is a weekly carbon footprint calculator that I did with my classmates in on
 12. End
 
 ## Very Simplified Flowchart
-<img width="717" height="846" alt="image" src="https://github.com/user-attachments/assets/f68c1d8a-a236-4792-be13-e421478c1b2a"/>
+<img width="717" height="846" alt="image" src="https://github.com/user-attachments/assets/eb48f56e-eb0a-4b10-8b1f-ab5e9cb71707"/>
 
 ## Contributions
 - Classmate - Research(finding equations and facts)/ File requirements /Calculations(Wrote half of the calculation files to get the emissions)/Sound
